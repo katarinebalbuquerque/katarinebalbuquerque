@@ -1,7 +1,7 @@
 ### Sobre mim
 
 Formada em Análise e Desenvolvimento de Sistemas, com pós em Desenvolvimento Java.
-Atuei como estagiária, Teleoperadora, Auxiliar de Monitoramento e Dev Front-end.
+Atuei como estagiária em Auxiliar de Escritório, trabalhei como Teleoperadora, Auxiliar de Monitoramento e Dev Front-end.
 Atualmente sou 1º Analista de Soluções em Pegasystems.
 Experiência com HTML5, CSS3, JavaScript, Java, PHP e WordPress.
 Conhecimentos básicos em React e foco em usabilidade e performance.
